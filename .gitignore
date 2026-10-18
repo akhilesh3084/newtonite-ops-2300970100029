@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+web/dist/
+.env
+server/.env
+web/.env
+*.log
+coverage/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tsbuildinfo
+server/prisma/*.db
+server/prisma/*.db-journal
