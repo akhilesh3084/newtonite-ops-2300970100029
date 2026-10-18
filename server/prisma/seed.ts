@@ -37,11 +37,6 @@ const USERS: SeedUser[] = [
     memberships: [{ team: 'Payments', role: 'LEAD' }],
   },
   {
-    email: 'priya@ops.test',
-    name: 'Priya',
-    memberships: [{ team: 'Payments', role: 'LEAD' }],
-  },
-  {
     email: 'akhilesh.member@ops.test',
     name: 'Akhilesh Member',
     memberships: [{ team: 'Payments', role: 'MEMBER' }],
